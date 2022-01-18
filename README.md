@@ -24,6 +24,7 @@ Clicking on practice button, user can test himself/herself by guessing the defin
   <li>Java</li>
   <li>JavaFX is used for GUI</li>
   <li>Maven - Dependency Management</li>
+  <li>H2 - database</li>
 </ul>
 
 
